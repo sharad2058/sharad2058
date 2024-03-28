@@ -4,7 +4,7 @@ Welcome to my GitHub space! Here's where the code magic happens! ✨
 
 ## 🚀 About Me
 
-I'm Sarad AdhiKARI, a passionate coder and explorer based in Sydney. I breathe 💻 code and dream in algorithms. Outside the terminal I love ☕ sipping on a cup of masala tea.
+I'm Sarad AdhiKARI, a passionate coder and explorer based in Sydney. I breathe air but sometimes I breathe code and dream in algorithms. Outside the terminal I love ☕ sipping on a cup of masala tea.
 
 ## 🌟 Projects
 
