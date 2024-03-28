@@ -1,4 +1,4 @@
-# 👋 GitHub Repository 👨‍💻
+# Welcome to my repositary : Sharad Adhikari #
 
 Welcome to my GitHub space! Here's where the code magic happens! ✨
 
